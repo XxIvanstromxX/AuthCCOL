@@ -22,3 +22,5 @@ jspm_packages/
 # packages.json
 package-lock.json
 yarn.lock
+# Mac system files
+.DS_Store
